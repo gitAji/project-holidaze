@@ -18,6 +18,7 @@ import { RegistrationSchema } from "../../utils/schema";
 import { useNavigate } from "react-router-dom";
 import { Url, Register } from "../../api/constant";
 import postData from "../../api/postData";
+import { toast } from "react-toastify";
 
 const SignUpForm = () => {
   const [name, setName] = useState("");
@@ -84,9 +85,15 @@ const SignUpForm = () => {
     if (data) {
       setSubmitSuccess(true);
 
-      navigate(0);
+      if (error) {
+        setTimeout(() => {
+          setSubmitSuccess(false);
+          setError(true);
+        }, 3000);
+      }
+      toast.success("You have successfully signed up!");
     }
-  }, [data, navigate]);
+  }, [data, navigate, error]);
 
   return (
     <>
