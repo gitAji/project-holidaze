@@ -27,7 +27,7 @@ In the project directory, you can run:
 [Gantt chart](https://github.com/users/gitAji/projects/4/views/2)
 
 # A design prototype
-
+[Figma](https://www.figma.com/file/gRW66h02xkgZVYzHmMeGTE/Holidaze?type=design&node-id=0%3A1&t=ohxlpuFqBc7BG38x-1)
 # A style guide
 ![STYLETILE](https://github.com/gitAji/project-holidaze/assets/89026824/ba06ee7d-3496-4f10-ac1b-1571e6940ef2)
 
@@ -39,9 +39,16 @@ In the project directory, you can run:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4e8e5ed2-3cc5-4bf9-bf36-6455e2648df0/deploy-status)](https://app.netlify.com/sites/project-holidaze/deploys)
 
 [Live Site](https://project-holidaze.netlify.app/)
+# Tech used 
+- JavaScript Framework : React
+- CSS Framework : MUI
+- Static Host : Netlify
+- Design Application: Figma
+- Planning Application : GitHub Projects
 # References
 - [React](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
+- [Redux Toolkit](https://redux-toolkit.js.org/api/createReducer)
 - [MUI](https://mui.com)
 - [React date range](https://hypeserver.github.io/react-date-range/)
 - [Redux-persist](https://www.npmjs.com/package/redux-persist)
