@@ -8,8 +8,12 @@ To take the skills learned over the last two years and take on an extensive proj
 
 # Brief
 A newly launched accommodation booking site called Holidaze has approached you to develop a brand new front end for their application. While they have a list of required features, the design and user experience has not been specified. Working with the official API documentation, plan, design and build a modern front end accommodation booking application.
+
 # API used
 [API](https://noroff-api-docs.netlify.app/holidaze/bookings)
+
+
+## Available Scripts
 
 
 ## Available Scripts
@@ -19,7 +23,12 @@ In the project directory, you can run:
 
 ### `npm install`
 
+### Install all the dependencies
+
 ### `npm start`
+
+- The app will start on http://localhost:3000/
+- The student email used in the app is the one has suffix of @stud.noroff.no.
 
 
 
@@ -40,11 +49,11 @@ In the project directory, you can run:
 
 [Live Site](https://project-holidaze.netlify.app/)
 # Tech used 
-- JavaScript Framework : React
-- CSS Framework : MUI
-- Static Host : Netlify
-- Design Application: Figma
-- Planning Application : GitHub Projects
+- JavaScript Framework : **React**
+- CSS Framework : **MUI**
+- Static Host : **Netlify**
+- Design Application: **Figma**
+- Planning Application : **GitHub Projects**
 # References
 - [React](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
@@ -61,7 +70,7 @@ In the project directory, you can run:
 - [Redux persist](https://www.npmjs.com/package/redux-persist)
 - [Delete confirmation](https://christopher-dent.medium.com/adding-a-delete-confirmation-to-your-react-app-55221701daa6)
 - [ThemeProvider](https://stackoverflow.com/questions/57108648/how-do-i-access-material-uis-theme-in-styled-component)
-- [user-authentication-redux-toolkit](https://blog.logrocket.com/handling-user-authentication-redux-toolkit/)
+- [User-authentication-redux-toolkit](https://blog.logrocket.com/handling-user-authentication-redux-toolkit/)
 - [Logged in badge](https://mui.com/material-ui/react-avatar/)
 - [Netlify Redirect](https://www.youtube.com/watch?v=PQNmNqTY954)
 # License 
