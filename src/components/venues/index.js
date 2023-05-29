@@ -75,7 +75,7 @@ const Venues = () => {
     <>
       <Container sx={{ mb: 2, minHeight: "100vh" }}>
         <Grid container spacing={4} justifyContent={"center"}>
-          <Grid item xs={12} sm={4} md={6} lg={6}>
+          <Grid item xs={12} sm={8} md={6} lg={6}>
             <Stack direction="row" spacing={2} marginTop={2} flexGrow={1}>
               <Input
                 autoFocus
@@ -87,14 +87,13 @@ const Venues = () => {
               ></Input>
             </Stack>
           </Grid>
-          <Grid item xs={12} sm={8} md={6} lg={6}>
+          <Grid item xs={12} sm={12} md={6} lg={6}>
             <Stack
               direction="row"
               spacing={2}
               marginTop={2}
               alignItems="center"
               justifyContent="center"
-              sx={{ width: isSmallScreen ? "100%" : "100%" }}
             >
               <WifiIcon sx={{ color: wifi ? "primary.light" : "other.gray" }} />
               <FormControlLabel
