@@ -46,7 +46,7 @@ const BookingsOnVenues = () => {
         )}
 
         {venues.map((venue) => (
-          <Grid item xs={12} md={4} key={venue.id}>
+          <Grid item xs={12} sm={6} md={4} key={venue.id}>
             <Card
               sx={{
                 minHeight: "100%",

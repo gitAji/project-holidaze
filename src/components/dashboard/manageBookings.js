@@ -50,7 +50,7 @@ const ManageBookings = () => {
               </Grid>
             ) : (
               bookings.map((booking) => (
-                <Grid item xs={12} md={6} lg={4} key={booking.id}>
+                <Grid item xs={12} sm={6} md={6} lg={4} key={booking.id}>
                   <Card
                     sx={{
                       minHeight: "100%",
