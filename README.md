@@ -1,30 +1,63 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Holidaze Exam Project
+
+![LOGOpre](https://github.com/gitAji/project-holidaze/assets/89026824/78ffc4dc-8b03-4911-8239-7c3d3d05e119)
+
+# Goal
+To take the skills learned over the last two years and take on an extensive project where the finished product should reflect the candidate’s general development capabilities, in addition to visual and technical skills.
+
+# Brief
+A newly launched accommodation booking site called Holidaze has approached you to develop a brand new front end for their application. While they have a list of required features, the design and user experience has not been specified. Working with the official API documentation, plan, design and build a modern front end accommodation booking application.
+# API used
+[API](https://noroff-api-docs.netlify.app/holidaze/bookings)
+
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+
+### `npm install`
+
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+# A Gantt chart for project timing
+[Gantt chart](https://github.com/users/gitAji/projects/4/views/2)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# A design prototype
 
-### `npm run build`
+# A style guide
+[STYLETILE](https://github.com/gitAji/project-holidaze/assets/89026824/ba06ee7d-3496-4f10-ac1b-1571e6940ef2)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# A kanban project board
+[KANBAN](https://github.com/users/gitAji/projects/4/views/1)
+# Netlify
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e8e5ed2-3cc5-4bf9-bf36-6455e2648df0/deploy-status)](https://app.netlify.com/sites/project-holidaze/deploys)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Live Site](https://project-holidaze.netlify.app/)
+# References
+[React](https://reactjs.org/)
+[React Router](https://reactrouter.com/)
+[MUI](https://mui.com)
+
+
+[React date range](https://hypeserver.github.io/react-date-range/)
+[Redux-persist](https://www.npmjs.com/package/redux-persist)
+[React Routes](https://dev.to/collins87mbathi/reactjs-protected-route-m3j)
+[React Toastify](https://fkhadra.github.io/react-toastify/introduction)
+[Yup](https://www.npmjs.com/package/yup)
+[Yup](https://github.com/jquense/yup)
+
+[ Persist State in React Redux-Toolkit](https://www.youtube.com/watch?v=b88Z5POQBwI&t=4s)
+[Number of days ](https://www.geeksforgeeks.org/how-to-calculate-the-number-of-days-between-two-dates-in-javascript/)
+[Redux persist](https://www.npmjs.com/package/redux-persist)
+[Delete confirmation](https://christopher-dent.medium.com/adding-a-delete-confirmation-to-your-react-app-55221701daa6)
+[ThemeProvider](https://stackoverflow.com/questions/57108648/how-do-i-access-material-uis-theme-in-styled-component)
+[user-authentication-redux-toolkit](https://blog.logrocket.com/handling-user-authentication-redux-toolkit/)
+[Logged in badge](https://mui.com/material-ui/react-avatar/)
+[Netlify Redirect](https://www.youtube.com/watch?v=PQNmNqTY954)
+# License 
+Completely free [MIT](https://opensource.org/licenses/MIT).

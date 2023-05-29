@@ -83,14 +83,15 @@ const Dashboard = () => {
                     onChange={handleTab}
                     aria-label="lab API tabs example"
                   >
-                    {venueManager && (
+                    {venueManager ? (
                       <>
                         <Tab label="Your Bookings" value="1" />
                         <Tab label="Your Venues" value="2" />
                         <Tab label="Bookings On Venues" value="3" />
                       </>
+                    ) : (
+                      <Tab label="Your Bookings" value="1" />
                     )}
-                    {!venueManager && <Tab label="Your Bookings" value="1" />}
                   </TabList>
                 </Box>
                 <TabPanel value="1">
