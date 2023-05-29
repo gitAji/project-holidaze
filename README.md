@@ -29,7 +29,8 @@ In the project directory, you can run:
 # A design prototype
 
 # A style guide
-[STYLETILE](https://github.com/gitAji/project-holidaze/assets/89026824/ba06ee7d-3496-4f10-ac1b-1571e6940ef2)
+![STYLETILE](https://github.com/gitAji/project-holidaze/assets/89026824/ba06ee7d-3496-4f10-ac1b-1571e6940ef2)
+
 
 # A kanban project board
 [KANBAN](https://github.com/users/gitAji/projects/4/views/1)
@@ -39,25 +40,22 @@ In the project directory, you can run:
 
 [Live Site](https://project-holidaze.netlify.app/)
 # References
-[React](https://reactjs.org/)
-[React Router](https://reactrouter.com/)
-[MUI](https://mui.com)
-
-
-[React date range](https://hypeserver.github.io/react-date-range/)
-[Redux-persist](https://www.npmjs.com/package/redux-persist)
-[React Routes](https://dev.to/collins87mbathi/reactjs-protected-route-m3j)
-[React Toastify](https://fkhadra.github.io/react-toastify/introduction)
-[Yup](https://www.npmjs.com/package/yup)
-[Yup](https://github.com/jquense/yup)
-
-[ Persist State in React Redux-Toolkit](https://www.youtube.com/watch?v=b88Z5POQBwI&t=4s)
-[Number of days ](https://www.geeksforgeeks.org/how-to-calculate-the-number-of-days-between-two-dates-in-javascript/)
-[Redux persist](https://www.npmjs.com/package/redux-persist)
-[Delete confirmation](https://christopher-dent.medium.com/adding-a-delete-confirmation-to-your-react-app-55221701daa6)
-[ThemeProvider](https://stackoverflow.com/questions/57108648/how-do-i-access-material-uis-theme-in-styled-component)
-[user-authentication-redux-toolkit](https://blog.logrocket.com/handling-user-authentication-redux-toolkit/)
-[Logged in badge](https://mui.com/material-ui/react-avatar/)
-[Netlify Redirect](https://www.youtube.com/watch?v=PQNmNqTY954)
+- [React](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [MUI](https://mui.com)
+- [React date range](https://hypeserver.github.io/react-date-range/)
+- [Redux-persist](https://www.npmjs.com/package/redux-persist)
+- [React Routes](https://dev.to/collins87mbathi/reactjs-protected-route-m3j)
+- [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
+- [Yup](https://www.npmjs.com/package/yup)
+- [Yup](https://github.com/jquense/yup)
+- [ Persist State in React Redux-Toolkit](https://www.youtube.com/watch?v=b88Z5POQBwI&t=4s)
+- [Number of days ](https://www.geeksforgeeks.org/how-to-calculate-the-number-of-days-between-two-dates-in-javascript/)
+- [Redux persist](https://www.npmjs.com/package/redux-persist)
+- [Delete confirmation](https://christopher-dent.medium.com/adding-a-delete-confirmation-to-your-react-app-55221701daa6)
+- [ThemeProvider](https://stackoverflow.com/questions/57108648/how-do-i-access-material-uis-theme-in-styled-component)
+- [user-authentication-redux-toolkit](https://blog.logrocket.com/handling-user-authentication-redux-toolkit/)
+- [Logged in badge](https://mui.com/material-ui/react-avatar/)
+- [Netlify Redirect](https://www.youtube.com/watch?v=PQNmNqTY954)
 # License 
 Completely free [MIT](https://opensource.org/licenses/MIT).
